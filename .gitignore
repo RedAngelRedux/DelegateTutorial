@@ -1,6 +1,7 @@
 ﻿# Ignore project directories
 Delegates101/
 Delegates301/
+Delegates401/
 
 # Ignore build directories
 bin/
